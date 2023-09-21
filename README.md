@@ -1,4 +1,2 @@
-Please rename variables\n
-newNode -> temp or new\n
-pointer -> curr or current or currNode or currentNode\n
-temp -> dummy
+Please rename variables
+(newNode -> temp or new)		(pointer -> curr or current or currNode or currentNode)		(temp -> dummy)
